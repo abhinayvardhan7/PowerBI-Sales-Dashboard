@@ -1,31 +1,26 @@
 
-# Power BI Sales & Customer Insights Dashboard  
+Power BI - Udemy Course Project
 
-📊 This project is an interactive **Power BI Dashboard** analyzing sales, profit, returns, and customer behavior across multiple geographies and product categories.  
+This repository showcases the final project for a data analysis course, utilizing Power BI to explore and visualize data. The project demonstrates key skills in data manipulation, modeling, analysis, and visualization. You can find the course certification here.
+Project Overview:
 
----
+This project investigated sales and return data for a fictional bike and accessory company. The data was structured with fact tables for "Sales" and "Returns," and dimension tables for "Customer Details," "Date," "Territory," and "Product Details". The provided Power BI file (AdventureWorks Report.pbix) allows you to explore the interactive dashboards and visualizations created.
+Key Learnings Explored:
 
-## 🚀 Key Highlights
-- **Total Revenue:** $24.9M  
-- **Total Profit:** $10.4M (~42% margin)  
-- **Orders:** 25K+ with 2.1% return rate  
-- **Top Products:** Water Bottles, Helmets, Tire Tubes  
-- **Customer Insights:**  
-  - 17.4K unique customers  
-  - Revenue per customer: $1,431  
-  - Top customer contributed $12.4K  
+    Data Transformation: Techniques for importing, cleaning, and shaping CSV data for optimal analysis can be seen in the applied steps section within the Power BI file itself.
+    Data Modeling: The established relationships between tables within the Data Model ensure data consistency and facilitate comprehensive insights.
+    DAX Calculations: You can explore the DAX expressions used to create custom calculations, extending the analysis capabilities within the Power BI file.
+    Data Visualization: The interactive dashboards present compelling charts and graphs, effectively communicating key findings.
 
----
+Additional Resources:
 
-## 🛠 Skills Applied
-- Data Cleaning & Transformation (Power Query)  
-- DAX Measures & Calculations  
-- KPI Tracking (Revenue, Profit, Returns)  
-- Interactive Visualizations (Geography, Category, Customer Analysis)  
+The accompanying presentation ('Power BI – Project Adventure Works - Giuliano Fischetto' in PDF or Power Point) provides a high-level overview of the project steps, including data exploration, data modeling, and visualization design choices.
+Skills Demonstrated:
 
+    Data wrangling and transformation
+    Data modeling concepts
+    DAX formula creation
+    Power BI report design and interactivity
 
----
-
-## 👤 Author
-**Ragi Abhinay Vardhan**  
-[LinkedIn Profile](www.linkedin.com/in/abhinay-vardhan-575076213)  
+Learning Experience:
+This project served as a valuable learning experience, solidifying my understanding of data analysis tools and techniques in Power BI.
