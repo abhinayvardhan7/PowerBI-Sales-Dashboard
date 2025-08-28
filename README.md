@@ -1,10 +1,11 @@
 
-Power BI - Udemy Course Project
+#Power BI - Udemy Course Project
 
 This repository showcases the final project for a data analysis course, utilizing Power BI to explore and visualize data. The project demonstrates key skills in data manipulation, modeling, analysis, and visualization. You can find the course certification here.
 Project Overview:
 
-This project investigated sales and return data for a fictional bike and accessory company. The data was structured with fact tables for "Sales" and "Returns," and dimension tables for "Customer Details," "Date," "Territory," and "Product Details". The provided Power BI file (AdventureWorks Report.pbix) allows you to explore the interactive dashboards and visualizations created.
+This project investigated sales and return data for a fictional bike and accessory company. The data was structured with fact tables for "Sales" and "Returns," and dimension tables for "Customer Details," "Date," "Territory," and "Product Details". 
+
 Key Learnings Explored:
 
     Data Transformation: Techniques for importing, cleaning, and shaping CSV data for optimal analysis can be seen in the applied steps section within the Power BI file itself.
@@ -12,9 +13,7 @@ Key Learnings Explored:
     DAX Calculations: You can explore the DAX expressions used to create custom calculations, extending the analysis capabilities within the Power BI file.
     Data Visualization: The interactive dashboards present compelling charts and graphs, effectively communicating key findings.
 
-Additional Resources:
 
-The accompanying presentation ('Power BI – Project Adventure Works - Giuliano Fischetto' in PDF or Power Point) provides a high-level overview of the project steps, including data exploration, data modeling, and visualization design choices.
 Skills Demonstrated:
 
     Data wrangling and transformation
